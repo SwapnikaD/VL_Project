@@ -73,7 +73,7 @@ def clean_data():
                 result = [", ".join(value) for value in record["categories"].values()]
                 print(result)
                 key="set"+str(i)
-                save_entry_to_json({key:result},"gold_data_polished.json")
+                save_entry_to_json({key:result},"data/gold_data_polished.json")
                 i+=1
 
 
@@ -81,7 +81,7 @@ def clean_data():
 
 def filling_empty_sets_in_answers_sent_by_llama():
         try: 
-            with open('my_llama_answers_all.json', 'r') as file: 
+            with open('data/my_llama_answers_all.json', 'r') as file: 
                 all_data = json.load(file)  # Assuming the file is in JSON format 
             # print(len(all_data))
             # print(all_data[1])
@@ -111,7 +111,7 @@ def filling_empty_sets_in_answers_sent_by_llama():
 
 def convert_json_structure(): 
     # with open('llama_answers_all.json', 'r') as file: 
-    with open('test.json', 'r') as file: 
+    with open('data/test.json', 'r') as file: 
         all_data = json.load(file)
     output_json = {} 
     for record in all_data:
@@ -125,7 +125,7 @@ def convert_json_structure():
                 output_json[idx]=group_str
             
     print(output_json)
-    save_entry_to_json(output_json,"processed_llama_answers.json")
+    save_entry_to_json(output_json,"data/processed_llama_answers.json")
 
 
 filling_empty_sets_in_answers_sent_by_llama()
