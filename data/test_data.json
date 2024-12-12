@@ -1,0 +1,35 @@
+[
+    {
+        "allwords": "APPROVAL, BLESSING, CONSENT, SUPPORT, BAGEL, LIFESAVER, TIRE, WREATH, HOOK, SHANK, SLICE, WHIFF, LOAF, SLIP, SNEAK, WADE",
+        "reasoning_annotation": [
+            {
+                "Categories": "OFFICIAL SANCTIONING",
+                "Words in Category": "['APPROVAL', 'BLESSING', 'CONSENT', 'SUPPORT']",
+                "Complexity": "simple",
+                "Based On": "word meaning",
+                "Knowledge Type": "semantic relations"
+            },
+            {
+                "Categories": "TORUS-SHAPED THINGS",
+                "Words in Category": "['BAGEL', 'LIFESAVER', 'TIRE', 'WREATH']",
+                "Complexity": "simple",
+                "Based On": "word meaning",
+                "Knowledge Type": "associative relations"
+            },
+            {
+                "Categories": "BAD GOLF SHOTS",
+                "Words in Category": "['HOOK', 'SHANK', 'SLICE', 'WHIFF']",
+                "Complexity": "simple",
+                "Based On": "word meaning",
+                "Knowledge Type": "semantic relations"
+            },
+            {
+                "Categories": "FOOTWEAR MINUS \"ER\" SOUND",
+                "Words in Category": "['LOAF', 'SLIP', 'SNEAK', 'WADE']",
+                "Complexity": "complex",
+                "Based On": "word meaning + word form",
+                "Knowledge Type": "semantic relations + morphological"
+            }
+        ]
+    }
+]

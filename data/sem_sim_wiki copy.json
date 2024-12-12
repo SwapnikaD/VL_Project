@@ -1,0 +1,628 @@
+[
+    {
+        "set0": [
+            "APPROVAL, LIFESAVER, BLESSING, CONSENT",
+            "SUPPORT, TIRE, WREATH, HOOK",
+            "SLICE, WHIFF, SLIP, BAGEL",
+            "SHANK, LOAF, SNEAK, WADE"
+        ]
+    },
+    {
+        "set0": [
+            "APPROVAL, LIFESAVER, BLESSING, CONSENT",
+            "SUPPORT, TIRE, WREATH, HOOK",
+            "SLICE, WHIFF, SLIP, BAGEL",
+            "SHANK, LOAF, SNEAK, WADE"
+        ]
+    },
+    {
+        "set0": [
+            "APPROVAL, LIFESAVER, BLESSING, CONSENT",
+            "SUPPORT, TIRE, WREATH, HOOK",
+            "SLICE, WHIFF, SLIP, BAGEL",
+            "SHANK, LOAF, SNEAK, WADE"
+        ]
+    },
+    {
+        "set0": [
+            "APPROVAL, LIFESAVER, BLESSING, CONSENT",
+            "SUPPORT, TIRE, WREATH, HOOK",
+            "SLICE, WHIFF, SLIP, BAGEL",
+            "SHANK, LOAF, SNEAK, WADE"
+        ],
+        "set1": [
+            "BOILING, FUMING, POSITION, STATION",
+            "AIR, LAUNDRY, LIVID, RANKING",
+            "STANDING, CONDITIONING, VENTILATION, BAKING",
+            "ORIGAMI, POKER, STEAMING, HEATING"
+        ],
+        "set2": [
+            "RUMBLING, SPECULATION, TALK, WHISPERS",
+            "CREEP, SLIP, STEAL, TIPTOE",
+            "BUDGET, ENTERPRISE, NATIONAL, ENVIRON",
+            "LATIN, PLEAD, THRIFTY, JARGON"
+        ],
+        "set3": [
+            "DISPLAY, MONITOR, TERMINAL, BOA",
+            "FAN, GLOVES, BUFF, FAWN",
+            "BASK, FINISH, SCREEN, CORSET",
+            "CREAM, TAN, CHECK, TIE"
+        ],
+        "set4": [
+            "PROJECTOR, REEL, DECK, LEVEL",
+            "STORY, GLOBE, POST, SUN",
+            "EGG, SCREEN, SPEAKER, MIRROR",
+            "FLOOR, MOON, STREAK, TOILET PAPER"
+        ],
+        "set5": [
+            "CAKE, BASKETBALL, TIRE, COAT",
+            "FLOATIE, PLASTER, SMEAR, BALLOON",
+            "BAR, BUBBLE, LINE, PIE",
+            "FIZZ, PUNCH, SLING, SOUR"
+        ],
+        "set6": [
+            "BLOW, DRAFT, GUST, PUFF",
+            "CRANK, WIND, BULL, GRINCH",
+            "REEL, TURN, CRAB, LION",
+            "RAM, CAT, TURTLE, POP"
+        ],
+        "set7": [
+            "BLUES, SAUERKRAUT, CHAIR, COUNTRY",
+            "FOLK, ROCK, BRAT, BUN",
+            "MUSTARD, MOUNTAIN, TREE, WARRIOR",
+            "SOULMATE, COCONUT, UPDO, WALLET"
+        ],
+        "set8": [
+            "ALARM, HOUR, SNOOZE, WHAT IF",
+            "KISS, RUNT, DOPE, GRUMP",
+            "SLEEP, TIME SET, SAY, SUPPOSE",
+            "WHOPPER, DO, PERHAPS, NERD"
+        ],
+        "set9": [
+            "DIALECT, SPEECH, FRENCH, KISS",
+            "NECK, DRESSING, SCISSORS, TAPE",
+            "PRAIRIE, LANGUAGE, TONGUE, COTTAGE",
+            "CRAFTSMAN, MAKE OUT, RANCH, BANDAGE"
+        ],
+        "set10": [
+            "AVERAGE, FAIR, OK, HI",
+            "MA, OR, PA, ANKLE",
+            "COWBOY, ELEVATOR, SUN, TIDE",
+            "YO-YO, SO-SO, GO-GO, THIGH-HIGH"
+        ],
+        "set11": [
+            "EXTENT, REACH, MATCH, BUD",
+            "STELLA, RANGE, SCOPE, PARTNER",
+            "SIERRA, CHECK, PAL, PHONE",
+            "COMPLEMENT, MATE, NATTY, DIRT"
+        ],
+        "set12": [
+            "BOO-BOO, FLUB, GAFFE, GOOF",
+            "DAISY, JASMINE, PETUNIA, POPPY",
+            "BUZZ, DANCE, STING, BABE",
+            "LOU, MICKEY, YOGI, POLLINATE"
+        ],
+        "set13": [
+            "SAID, SPOKE, TOLD, DESIGNATION",
+            "HANDLE, CLEAR, MARKED, STRIKING",
+            "PORTER, POWER, ROUGH, WHEEL",
+            "VOICED, MONIKER, PRONOUNCED, SOBRIQUET"
+        ],
+        "set14": [
+            "GOLD, THRONE, BUTCHER, BUTTER",
+            "LEAD, MERCURY, TIN, KING",
+            "QUEEN, TWIN, CAN, HEAD",
+            "JOHN, BOWIE, FULL, BUTTERFLY"
+        ],
+        "set15": [
+            "BARGE, CRAFT, SHIP, VESSEL",
+            "BEST, CHAMP, GOAT, LEGEND",
+            "ON, HARE, I, MUSSEL",
+            "NAVAL, ABOUT, CONCERNING, TOWARD"
+        ],
+        "set16": [
+            "DEVIL, RUN, OFFICE, TEAMS",
+            "JOBS, MILK, MARS, ROSE",
+            "STRAWBERRY, FUNCTION, OPERATE, WORK",
+            "EDGE, VICE, WINDOWS, BLONDE"
+        ],
+        "set17": [
+            "ABSENT, ELSEWHERE, CHEERLEADER, WAVE",
+            "GONE, MIA, ADVOCATE, CHAMPION",
+            "EXPONENT, GOTH, METAL, PUNK",
+            "HORROR, JOCK, GLAM, VALUE"
+        ],
+        "set18": [
+            "BACKFLIP, CANNONBALL, JACKKNIFE, ECHO",
+            "PARROT, REPEAT, ANCHOR, PILLAR",
+            "HAM, PIRATE, SATELLITE, TALK",
+            "BELLYFLOP, QUOTE, BACKBONE, CORNERSTONE"
+        ],
+        "set19": [
+            "JAM, SERVER, DRILL, PACK",
+            "RAM, STUFF, COOK, DISHWASHER",
+            "HOST, MICROWAVE, X-RAY, BRIDLE",
+            "BYTE, COMEDIAN, RADIO, VISIBLE"
+        ],
+        "set20": [
+            "CLOUD, DANDELION, SHEEP, SUBJECT",
+            "PROTEST, BULL, FOG, MATTER",
+            "COTTON BALL, GUINEA PIG, VOLUNTEER, MIND",
+            "SHOE, PARTICIPANT, DISAPPROVE, OBJECT"
+        ],
+        "set21": [
+            "GET BY, MAKE DO, CAPISCE, GET IT",
+            "HACK IT, MANAGE, BIRTHDAY, CONGRATULATIONS",
+            "THANK YOU, SEE, UNDERSTAND, CANDY",
+            "CONTACT, SHADOW, WITNESS, GET WELL"
+        ],
+        "set22": [
+            "BUDDY, SPORT, TIGER, WILLING",
+            "EERIE, LLAMA, OOZE, DEEP",
+            "CHAMP, AARDVARK, BLUE, AMENABLE",
+            "DOWN, BRINY, DRINK, GAME"
+        ],
+        "set23": [
+            "HIGH, KICK, RUSH, BEAR",
+            "STAND, STOMACH, TAKE, BALONEY",
+            "MOUSE, TONGUE, THRILL, BULL",
+            "REMOTE, BUNK, TRIPE, HEELS"
+        ],
+        "set24": [
+            "STRAIN, TAX, TEST, MIX",
+            "SAMPLE, SCRATCH, SPIN, DIRECT",
+            "IRREGULAR, POSSESSIVE, PRESENT, JEALOUS",
+            "LUSH, TRY, ECOLOGICAL, NAUSEOUS"
+        ],
+        "set25": [
+            "HYPE, MARKET, PITCH, CHUCK",
+            "FLING, HURL, FICTION, HUMOR",
+            "ROMANCE, TRAVEL, ANKLE, TUBE",
+            "SELL, CAST, CREW, SWEAT"
+        ],
+        "set26": [
+            "GRUFF, HUSKY, POINTER, RING",
+            "PORTER, BULLDOG, FRY, HORN",
+            "KISS, HOARSE, ROUGH, LITTLE",
+            "MIDDLE, AMBER, STOUT, SOUR"
+        ],
+        "set27": [
+            "NEAT, NIFTY, EXPAND, SUPER",
+            "SWELL, EXPLAIN, FLAIR, GIFT",
+            "KNACK, COMPLEX, COMPOUND, ELABORATE",
+            "SPECIFY, FACILITY, BLOCK, DEVELOPMENT"
+        ],
+        "set28": [
+            "ARENA, COLISEUM, DOME, ALLEY",
+            "FISH, JUSTICE, LIBRA, GUTTER",
+            "WHALE, BOWL, COURT, FOUNTAIN",
+            "DRIVE, LANE, SOLFEGE, TEAPOT"
+        ],
+        "set29": [
+            "COVER, JACKET, PAGE, SPINE",
+            "CALICO, TABBY, TUXEDO, JITTER",
+            "NERVE, WILLY, BEETHOVEN, CORNUCOPIA",
+            "KALEIDOSCOPE, PEACOCK, TORTOISESHELL, BUTTERFLY"
+        ],
+        "set30": [
+            "ASIDE, DETOUR, TANGENT, BEAR",
+            "PRODUCE, YIELD, BABE, FOX",
+            "SNACK, ARE, RADIUS, REVERSE",
+            "RIGHT, DIGRESSION, GENERATE, TEN"
+        ],
+        "set31": [
+            "DOWN, MINUS, LOOT, LEFT",
+            "RIGHT, BACK, CHAMPION, ENDORSE",
+            "SUPPORT, CON, DING, STRIKE",
+            "BASE, SYMBOL, UP, LIAR"
+        ],
+        "set32": [
+            "CLAY, PAPYRUS, PARCHMENT, WAX",
+            "ANCHOR, HOST, PRESENT, FLAIR",
+            "TALENT, BURRITO, MUMMY, MODERATE",
+            "FACULTY, INSTINCT, SPRAIN, GIFT"
+        ],
+        "set33": [
+            "KID, RAZZ, RIB, TEASE",
+            "WING, CALF, CUB, FAWN",
+            "KIT, MUSCLE, BREAST, SHOULDER",
+            "TENDER, BARGE, THIGH, JOSTLE"
+        ],
+        "set34": [
+            "CHARLATAN, QUACK, NOISE, PEACOCK",
+            "BUG, TWEET, FRAUD, SHAM",
+            "SOUND, WORD, HAM, SHOWBOAT",
+            "PORK, SPEED, PEEP, HOT DOG"
+        ],
+        "set35": [
+            "AREA, FIELD, FIDDLE, HORN",
+            "BARRIER, CONE, FLARE, PROCESSOR",
+            "PYRAMID, DOMAIN, SPHERE, RECORDER",
+            "TRIANGLE, CHAIN, FLAG, FIGHT"
+        ],
+        "set36": [
+            "CAMPAIGN, CANVASS, ORGANIZE, STUMP",
+            "COMPOSITION, FABRIC, CLAMP, FILE",
+            "LEVEL, SAW, LOG, MAX",
+            "MOD, TAN, MAKEUP, STRUCTURE"
+        ],
+        "set37": [
+            "FLUID, GRACEFUL, POWER, DAD",
+            "NATURAL, SMOOTH, EFFORT, LABOR",
+            "WORK, BATTERY, CHARGE, JUICE",
+            "BURST, MAINSTREAM, SODA, SWEAT"
+        ],
+        "set38": [
+            "FLAME, LOVER, STEADY, SWEETHEART",
+            "BURN, SLIGHT, DIESEL, PLUS",
+            "PREMIUM, REGULAR, COFFEE, POOL",
+            "WATER, DIG, JAB, PERIODIC"
+        ],
+        "set39": [
+            "COURT, PLAZA, SQUARE, MATCH",
+            "ROUND, POMP, RITZ, HEART",
+            "SPARKLES, YARD, CONTEST, DAZZLE",
+            "FLASH, SKULL, BOUT, FIRE"
+        ],
+        "set40": [
+            "BANK, CHECK, CURB, SCHOOL",
+            "BIDE, LAUNDROMAT, INHIBIT, PACK",
+            "PRIDE, SWARM, CART, NIX",
+            "WASHING, POST OFFICE, SUPERMARKET, HAMPER"
+        ],
+        "set41": [
+            "CROSS, SHORT, TESTY, PILOT",
+            "TRIAL, FIDDLER, JERSEY, KINKY",
+            "MERRILY, PAN, PARKER, PIPER",
+            "RABBIT, SURLY, EXPLORATORY, PRELIMINARY"
+        ],
+        "set42": [
+            "ACCEPT, BELIEVE, TRUST, FRONT",
+            "STAND, BUY, BLUFF, SHAM",
+            "SHOW, BASE, BRACKET, MOUNT",
+            "FIFTH, HANDLE, LITER, PINT"
+        ],
+        "set43": [
+            "POINT, TIP, FAIR, FINE",
+            "GOOD, TRADE, BRAZIL, PINE",
+            "PRONG, TINE, MINT, BUSINESS",
+            "FIELD, LINE, BUTTER, DOUGH"
+        ],
+        "set44": [
+            "GIANT, TITANIC, CHARACTER, FIGURE",
+            "APPEAR, SEEM, SOUND, CASTLE",
+            "LISTEN, WITCH, MAMMOTH, AVATAR",
+            "PERSONA, HUSTLE, MONSTER, LOOK"
+        ],
+        "set45": [
+            "AUDITORIUM, LAB, LIBRARY, EVEN",
+            "ODD, RED, PIGEON, SOAP",
+            "GREY, MOTHER, SILLY, GYM",
+            "BLACK, GOLDEN, CHOCOLATE, PEACE"
+        ],
+        "set46": [
+            "PEN, RULER, SCISSORS, KEY",
+            "PRINCIPAL, GIVE, HAND, PASS",
+            "SEND, APPLAUSE, WALK, TAPE",
+            "ESSENTIAL, STAPLE, EXIT, RECORDING"
+        ],
+        "set47": [
+            "CHANCE, FORECAST, OUTLOOK, ATTITUDE",
+            "CHEEK, LIP, SASS, BASS",
+            "PERCH, PIKE, BRIDGE, LENS",
+            "RIM, TEMPLE, PROSPECT, FLUKE"
+        ],
+        "set48": [
+            "JOURNAL, LOG, RECORD, REGISTER",
+            "MANE, SHOCK, CHEER, FRIEND",
+            "WEED, FUND, MAZE, TRIMMER",
+            "MOP, TANGLE, HOG, SCRUB"
+        ],
+        "set49": [
+            "POINTER, TIP, TRICK, GRIT",
+            "RESOLVE, SPIRIT, WILL, HAUNT",
+            "VISIT, CANINE, FREIGHT, OFTEN",
+            "OZONE, SUGGESTION, FREQUENT, PATRONIZE"
+        ],
+        "set50": [
+            "CONDENSE, FREEZE, MELT, ALTERNATE",
+            "BACKUP, COPPER, HACK, SHRINK",
+            "FANTASY, HERO, HONEY, VAPORIZE",
+            "SUB, SUIT, COVER, SOMEDAY"
+        ],
+        "set51": [
+            "ATOM, CELL, PROTEIN, BOTTLE",
+            "CRIB, MOBILE, RATTLE, JUG",
+            "SPOONS, DOG, FREEZE, PHONE",
+            "PRICE, MOLECULE, SAW, WASHBOARD"
+        ],
+        "set52": [
+            "DESIRE, LONG, PINE, FORTUNE",
+            "MAD, NATURE, BOND, M",
+            "Q, EURO, K, YEN",
+            "O, MONEYPENNY, BUBBLEGUM, POWER"
+        ],
+        "set53": [
+            "ATTRACTION, CHEMISTRY, FIREWORKS, SPARKS",
+            "COOKIES, HISTORY, TURN, REVOLUTION",
+            "CACHE, DATA, LAP, BAR",
+            "LIBERTY, TINKER, CYCLE, DINNER"
+        ],
+        "set54": [
+            "BRAINSTORM, CONCRETE, CRUMB, TANTRUM",
+            "IDEATE, SPITBALL, WORKSHOP, MATERIAL",
+            "REAL, SOLID, MARBLE, POUND",
+            "CURVEBALL, WRENCH, BIRTHDAY, PARTY"
+        ],
+        "set55": [
+            "SQUIRREL, STORE, LIQUID, QUID",
+            "STASH, STOW, FIXED, FROZEN",
+            "CAVEAT, ERGO, VOX, ARCADE",
+            "NUMBERS, SQUID, TOXIC, BLAME"
+        ],
+        "set56": [
+            "DIRECT, GUIDE, USHER, CON",
+            "RACKET, STING, EAGLE, SEAL",
+            "WASHINGTON, NORTHWEST, LEAD, HUSTLE",
+            "NOVA, PRINCE, PYRAMID, BRITISH"
+        ],
+        "set57": [
+            "ADAGE, PUMP, CHESTNUT, MAXIM",
+            "CHARCOAL, SAW, WOOD, ASH",
+            "GUM, JET, ELECTRIC, GAS",
+            "CHERRY, EBONY, FILTER, HEATER"
+        ],
+        "set58": [
+            "TO, TWO, COUPLE, TIE",
+            "UNITE, LAID, PLACED, PUT",
+            "SAT, MAY, SUN, WALL",
+            "WILD, TOO, TUE, WED"
+        ],
+        "set59": [
+            "CLUTCH, SATCHEL, FREEDOM, LATITUDE",
+            "CUE, SIGNAL, WORD, BRIEF",
+            "DRAWER, MESSENGER, PROMPT, BOXER",
+            "SHORT, TOTE, LICENSE, SLACK"
+        ],
+        "set60": [
+            "CHASE, HUNT, QUEST, SEARCH",
+            "ALWAYS, KISSES, CAMP, MINE",
+            "RUSH, LOVE, SIDE, WING",
+            "BOND, LEAF, YOURS, PARTY"
+        ],
+        "set61": [
+            "CAPTAIN, MAJOR, JACK, OUTLET",
+            "PORT, DEMAND, POP-UP, GENERAL",
+            "PRIVATE, ATTACK, PERSONAL, WANT",
+            "SOCKET, APPETITE, AUDIENCE, MARKET"
+        ],
+        "set62": [
+            "DISH, FORK, DOORKNOB, SPILL",
+            "TALK, TELL, BRANCH, PART",
+            "SPLIT, KNIFE, UNKNOWN, FORMULA",
+            "RECIPE, SECRET, TOPKNOT, TICKET"
+        ],
+        "set63": [
+            "DELICATE, RAW, SENSITIVE, MAIN",
+            "SIDE, STARTER, BARE, MOUSSE",
+            "CARPET, MEAT, TAPE, TENDER",
+            "DESSERT, DEAR, NEW, DELICIOUS"
+        ],
+        "set64": [
+            "EASY, ENOUGH, RELAX, QUIET",
+            "BUG, CHILL, COLD, DIVE",
+            "MAGIC, MOTOR, SIN, WINDY",
+            "COUGH, BREACH, SPOUT, SING"
+        ],
+        "set65": [
+            "CHAIN, TRAIN, SERIES, STRING",
+            "DRIVER, WOOD, OMEN, RING",
+            "DOG, FRANK, LINK, IRON",
+            "WEDGE, FOG, BRAT, BIRDS"
+        ],
+        "set66": [
+            "FERRIS WHEEL, MERRY-GO-ROUND, ROLLER COASTER, CLEARANCE",
+            "CINDERELLA, UNDERDOG, BUTTERMILK, RUMPELSTILTSKIN",
+            "TAILGATE, TILT-A-WHIRL, GO-AHEAD, THUMBS-UP",
+            "DAVID-AND-GOLIATH, GREEN LIGHT, RAGS-TO-RICHES, BUMPER-TO-BUMPER"
+        ],
+        "set67": [
+            "NAIL, FLY, HOOK, SINKER",
+            "CHAIR, NUT, SCREW, WASHER",
+            "BOLT, BUG, ROD, LINE",
+            "DRYER, MIRROR, STRIKE, SINK"
+        ],
+        "set68": [
+            "AYE, FOR, COURT, DATE",
+            "SEE, WOO, HOST, PACK",
+            "SEA, AURA, PALM, TAROT",
+            "TEA, PRO, DROVE, YEA"
+        ],
+        "set69": [
+            "CHANNEL, BLOCK, OLIVE, SWORD",
+            "QUANTUM, MENU, POWER, VOLUME",
+            "SCREEN, SHIELD, CHERRY, UMBRELLA",
+            "CASINO, DIAMONDS, COVER, TOMORROW"
+        ],
+        "set70": [
+            "MAIL, POST, SHIP, GLOSS",
+            "LINER, CORNER, FIX, HOLE",
+            "SPOT, ANGLE, EDUCATION, SEND",
+            "CRIME, BALM, TEMPERATURE, STAIN"
+        ],
+        "set71": [
+            "CONDITION, SHAPE, STATE, BUSH",
+            "COUNTRY, WOODS, FLAMINGO, FOUNTAIN",
+            "GNOME, FAIRY, FISH, FOLK",
+            "TALL, FORM, STICKS, PINWHEEL"
+        ],
+        "set72": [
+            "DUNK, LAYUP, PERCH, PIKE",
+            "SKATE, SOLE, PROBLEM, FLOATER",
+            "LIFT, FLOWER, ONLY, THREE",
+            "BODY, VOLUME, POSTER, BOUNCE"
+        ],
+        "set73": [
+            "ARTICLE, ESSAY, PAPER, REPORT",
+            "CARNATION, ERASER, FLAMINGO, FOXTROT",
+            "HOTEL, VICTOR, YANKEE, DEPUTY",
+            "PENCIL, BUBBLE GUM, DEREK JETER, SILVER MEDAL"
+        ],
+        "set74": [
+            "APPRECIATE, DIG, FANCY, LIKE",
+            "HIT, SENSATION, SMASH, SUCCESS",
+            "BUTTON, HAT, SHIRT, CAT",
+            "EDITOR, PASTE, THAT, STICKER"
+        ],
+        "set75": [
+            "CHINATOWN, DUMBO, MANHATTAN, BEETLEJUICE",
+            "DOGMA, OCTOPUSSY, WALL STREET, E.T.",
+            "FRIGHT NIGHT, HEDWIG AND THE ANGRY INCH, MY LEFT FOOT, THE GREEN MILE",
+            "THE LONGEST YARD, FOXY BROWN, BE KIND REWIND, KILL BILL"
+        ],
+        "set76": [
+            "BI, AB, QUAD, TRI",
+            "DUB, TRAP, HI, LO",
+            "MED, OFF, BUY, BYE",
+            "PEC, EMO, BY, POP"
+        ],
+        "set77": [
+            "CRUX, ESSENCE, HEART, SUBSTANCE",
+            "BAROQUE, COMPLEX, ARROW, BULLET",
+            "HYPHEN, ANGRY, CRUCIFIX, HYBRID",
+            "ELABORATE, INVOLVED, CHECKBOX, BETRAY"
+        ],
+        "set78": [
+            "BITTER, SORE, UPSET, PEPPER",
+            "SCATTER, SPRINKLE, CAKE, EARTH",
+            "ONION, COUCH, HOT, SWEET",
+            "SALTY, STREW, PLYWOOD, BAKED"
+        ],
+        "set79": [
+            "ABSORB, HOLD, RIVET, FILM",
+            "RECORD, TAPE, PASTEL, GOOD",
+            "PENNY, WOMAN, ENGROSS, SHOOT",
+            "PETALS, STAPLE, PLEASE, PLEATS"
+        ],
+        "set80": [
+            "CONCEIVE, ENVISION, IMAGINE, LAYER",
+            "DEVELOP, PICTURE, COAT, FILM",
+            "SKIN, BRUSH, FLICK, SWEEP",
+            "WIPE, CODE, HACK, PROGRAM"
+        ],
+        "set81": [
+            "DRIVE, PROMPT, GYM, PROPEL",
+            "PUSH, REVERSE, SKIP, BASEBALL",
+            "MARBLE, PEA, COURTROOM, DUGOUT",
+            "PARK, DRAW, WILD, GRAPEFRUIT"
+        ],
+        "set82": [
+            "COOL, DRIFT, POINT, TENDER",
+            "NICE, SWEET, KIND, SORT",
+            "TYPE, IDEA, MESSAGE, RING",
+            "STICK, WING, SICK, STYLE"
+        ],
+        "set83": [
+            "CLEAR, ROBE, DECK, EARN",
+            "MAKE, NET, BEARD, HAT",
+            "STAFF, BRIDGE, HATCH, KEEL",
+            "SECTION, SPAN, SUITE, CLEF"
+        ],
+        "set84": [
+            "LASER, PLUCK, WAX, COIL",
+            "SPOOL, WIND, WRAP, HONEYCOMB",
+            "SPREADSHEET, BALL, MOVIE, SCHOOL",
+            "VITAMIN, THREAD, ORGANISM, SOLAR PANEL"
+        ],
+        "set85": [
+            "FOLLOWERS, LEMMINGS, PUPPETS, SHEEP",
+            "EQUITY, OPTIONS, STOCKS, BILLINGS",
+            "BUFFALO, MOBILE, PHOENIX, APARTMENT",
+            "LIKES, SHARES, INSULTS, SHOVELS"
+        ],
+        "set86": [
+            "HURRY, PRONTO, STAT, CURRENT",
+            "DRIFT, TIDE, CURL, FLY",
+            "PRESS, MARKS, PANE, RUSTLE",
+            "NOW, WAVE, LOCK, ROW"
+        ],
+        "set87": [
+            "BODY, CANON, FUJI, HOOD",
+            "OLYMPUS, INSERT, JACKET, SLEEVE",
+            "OEUVRE, SNOWGLOBE, WORKS, WHITNEY",
+            "RECORD, HANDS, MARACA, POLAROID"
+        ],
+        "set88": [
+            "LOOT, RAID, ROB, SACK",
+            "CLOUT, PULL, SWAY, WEIGHT",
+            "BOB, SHAG, BOBBY, HAIR",
+            "SAFETY, CROP, FADE, PUSH"
+        ],
+        "set89": [
+            "CHOW, FARE, GRUB, DIRECT",
+            "GUIDE, LEAD, BULLY, COW",
+            "RATTLE, BULL, FLEA, MEAT",
+            "STOCK, EATS, STEER, DAUNT"
+        ],
+        "set90": [
+            "EASY, AMAZING, BEGINNER, FLEXIBLE",
+            "OPEN, EVIL, LIVE, VEIL",
+            "VILE, GENIUS, SOLID, LIT",
+            "WAXY, WICKED, RECEPTIVE, SCENTED"
+        ],
+        "set91": [
+            "CHOICE, SAY, VOICE, HEEL",
+            "SPEAK, FLAT, QUARTER, TIRE",
+            "WAFFLE, VOTE, SHAKE, WHOLE",
+            "PUMP, STEAM, DOWN, NATURAL"
+        ],
+        "set92": [
+            "GRIDDLE, KETTLE, PAN, POT",
+            "FRINGE, RUFFLE, TRIM, PLACE",
+            "PUT, SET, SEIZE, TEASE",
+            "WISE, FRILL, LAY, GEEZ"
+        ],
+        "set93": [
+            "BANNER, BILLBOARD, SIGN, FIRST",
+            "INITIAL, MAIDEN, PREMIER, BACK",
+            "CHAMPION, SUPPORT, THEME, USE",
+            "WEE, POSTER, ENDORSE, HERE"
+        ],
+        "set94": [
+            "DRAIN, PIPE, CHEESE, SAP",
+            "EGG, SMILE, WINDOW, CLIMATE",
+            "LOOSE, SEA, DUCT, SCHMALTZ",
+            "SEWER, CORN, KNUCKLES, CHUMP"
+        ],
+        "set95": [
+            "EXPLOIT, DONE, UP, COPY",
+            "HEYDAY, SUPPER, LEVERAGE, MILK",
+            "OVER, CULTURE, SPORTS, YOGURT",
+            "USE, CITY, HIJINKS, THROUGH"
+        ],
+        "set96": [
+            "HEAD, KNEES, SHOULDERS, TOES",
+            "AUTO, RIDE, WHEELS, BEES",
+            "CAFFEINE, WHIP, PARES, PEELS",
+            "SHELLS, GOSSIP, SHUCKS, INTERCOMS"
+        ],
+        "set97": [
+            "BIT, DASH, PINCH, BUY",
+            "DEAL, STEAL, BALL, CUE",
+            "RACK, FACE, MAC, MATCH",
+            "POCKET, TOUCH, VALUE, CHALK"
+        ],
+        "set98": [
+            "CHARM, HEX, MAGIC, SPELL",
+            "PAWN, TOOL, MASK, SCOTT",
+            "WOO, INSTRUMENT, PUPPET, CAPE",
+            "TIGHTS, BAY, CARPENTER, UNDERWEAR"
+        ],
+        "set99": [
+            "FLUSH, LOADED, RICH, WEALTHY",
+            "CHOP, CUBE, DICE, MINCE",
+            "SQUARE, STRAIGHT, BURY, CURRENT",
+            "PAIR, STUFFY, TRADITIONAL, LEACHY"
+        ]
+    }
+]
