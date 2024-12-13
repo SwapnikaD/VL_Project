@@ -111,7 +111,7 @@ def filling_empty_sets_in_answers_sent_by_llama():
 
 def convert_json_structure(): 
     # with open('llama_answers_all.json', 'r') as file: 
-    with open('data/test.json', 'r') as file: 
+    with open('data/my_llama_answers_all_manual_rep.json', 'r') as file: 
         all_data = json.load(file)
     output_json = {} 
     for record in all_data:
@@ -125,7 +125,8 @@ def convert_json_structure():
                 output_json[idx]=group_str
             
     print(output_json)
-    save_entry_to_json(output_json,"data/processed_llama_answers.json")
+    save_entry_to_json(output_json,"data/processed_my_llama_answers.json")
 
 
-filling_empty_sets_in_answers_sent_by_llama()
+
+# convert_json_structure()

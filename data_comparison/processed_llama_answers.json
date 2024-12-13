@@ -43,10 +43,10 @@
             "GRINCH, POP, TURTLE, CAT"
         ],
         "set7": [
-            "'BLUES', 'COUNTRY', 'FOLK', 'ROCK'",
-            "'BRAT', 'BUN', 'MUSTARD', 'SAUERKRAUT'",
-            "'CHAIR', 'MOUNTAIN', 'TREE', 'WALLET'",
-            "'WARRIOR', 'COCONUT', 'UPDO', 'SOULMATE'"
+            "BLUES, COUNTRY, FOLK, ROCK",
+            "BRAT, BUN, MUSTARD, SAUERKRAUT",
+            "CHAIR, MOUNTAIN, TREE, WALLET",
+            "WARRIOR, COCONUT, UPDO, SOULMATE"
         ],
         "set8": [
             "ALARM, SNOOZE, TIME SET, DO",
@@ -1567,10 +1567,10 @@
             "BANNER, PRINCE, STARK, WAYNE"
         ],
         "set263": [
-            "'HI', 'LA', 'MA', 'OK'",
-            "'ALFA', 'BRAVO', 'ROMEO', 'TANGO'",
-            "'BOO', 'POM', 'TOM', 'YO'",
-            "'HALLMARK', 'USA', 'E', 'BET'"
+            "HI, LA, MA, OK",
+            "ALFA, BRAVO, ROMEO, TANGO",
+            "BOO, POM, TOM, YO",
+            "HALLMARK, USA, E, BET"
         ],
         "set265": [
             "BIG, GIANT, GREAT, HUGE",
@@ -1687,10 +1687,10 @@
             "ADAM, CARPENTER, FIRE, RED"
         ],
         "set287": [
-            "'LETTER', 'PARAGRAPH', 'SENTENCE', 'WORD'",
-            "'CARD', 'STAMP', 'HALLMARK', 'TRAIT'",
-            "'CLOWN', 'CUTUP', 'JOKER', 'BOOK'",
-            "'TABLE', 'TEA', 'TREE', 'FEATURE'"
+            "LETTER, PARAGRAPH, SENTENCE, WORD",
+            "CARD, STAMP, HALLMARK, TRAIT",
+            "CLOWN, CUTUP, JOKER, BOOK",
+            "TABLE, TEA, TREE, FEATURE"
         ],
         "set288": [
             "FORD, GRANT, LINCOLN, WILSON",
