@@ -7,15 +7,12 @@ with open('parsedCleanedLLM.txt', 'r') as file:
         # if i<2:
             puzz = line.strip()
             print(puzz)
-            ans = gr.getAnswersForGame(puzz)
+            ans = gr.replicating_p1(puzz)
             print(ans)
             data= utils.process_llama_result(ans)
             print(data)
             key="set"+str(i)
-            utils.save_entry_to_json({key:data},"my_llama_answers_all.json")
+            utils.save_entry_to_json({key:data},"paper1_part2_all.json")
             i+=1
 
 print(i)
-
-
-

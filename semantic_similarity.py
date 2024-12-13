@@ -26,7 +26,7 @@ data = {'APPROVAL': ['synonym acceptance', 'antonym disapproval', 'has positive 
 # with open('test.json', 'r') as file: 
 # with open('processed_triples_data_dicts_triplets_llama3-new-237.json', 'r') as file: 
 # with open('triples_input_sim.json', 'r') as file: 
-with open('cleaned_wiki.json', 'r') as file: 
+with open('data/cleaned_wiki.json', 'r') as file: 
     groups_semantic_data={}
     data_all = json.load(file) 
     # o=0
@@ -36,9 +36,6 @@ with open('cleaned_wiki.json', 'r') as file:
         # if (o<238):
             for setn,data in puzzle.items():
                 # print(setn,data)
-
-            
-
                 keys = list(data.keys()) 
                 flat_data = [] 
                 key_value_map = defaultdict(list) 
@@ -90,4 +87,4 @@ with open('cleaned_wiki.json', 'r') as file:
         # print(groups_semantic_data)
                 
                 print(o)
-utils.save_entry_to_json(groups_semantic_data,"sem_sim_wiki.json")
+utils.save_entry_to_json(groups_semantic_data,"data/sem_sim_wiki.json")

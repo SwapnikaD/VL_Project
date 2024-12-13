@@ -177,3 +177,86 @@ def getAnswersForGame(Game):
     print(return_val)
     return return_val
 
+
+
+
+def replicating_p1(Game):
+    client = Groq()
+
+    # user_input = f"You are a knowledge engine, Generate a list of triplets where each triplet consists of three words in the following format [Given word, relation, related word]. Here are some examples for Like:[like, synonym, similar], [like, antonym, dislike], [like, isa, verb], [like, used_in, social media], [like, has, positive connotation], [like, indicates, preference], [like, related_to, emotion], [like, has suffix, ly], [like, has prefix, un], [like, has, no color]. Please generate 10 such triplets for the given word {keyword}"
+    # prompt = f"### User:{user_input} ### Knowledge engine:"
+
+    
+
+    completion = client.chat.completions.create(
+        model="llama3-8b-8192",
+        messages=[
+            {
+                "role": "user",
+                "content": 
+                """
+                Welcome to the Connections puzzle! The puzzle consists of 16 words and your objective is to find groups of 4 items that share something in common.
+                For example, some categories and the words contained in them might be: 
+                'FISH': Bass, Flounder, Salmon, Trout
+                'FIRE ___': Ant, Drill, Island, Opal
+
+                Categories will always be more specific than, for example, '5-LETTER WORDS' or 'NAMES'
+
+                To play, select four words that you think belong to the same category and input them as a list separated by commas. For example, you could input 'Bass, Flounder, Salmon, Trout.' You do not need to guess or identify the category, only the words within it.
+
+                You will be told whether your guess is correct. If it is correct, the category will be revealed. You will also be told if three of your selected words belong to the same category, but not which three.
+
+                The game ends when you have correctly indentified all four groups or when you make too many incorrect guesses (number provided below). Good luck!
+                You are a puzzle-solving agent, PuzzleGPT, and your objective is to solve linguistic puzzles that rely on your knowledge of words and the world according to the instructions provided by the user.
+
+                I want you to solve a daily word puzzle that finds commonalities between words. There are 16 words, which form 4 groups of 4 words. Each group has some common theme that links the words. You must use each of the 16 words, and use each word only once.
+                Each group of 4 words are linked together in some way. The connection between words can be simple. An example of a simple connection would be "types of fish": Bass, Flounder, Salmon, Trout. Categories can also be more complex, and require abstract or lateral thinking.
+                An example of this type of connection would be "things that start with FIRE": Ant, Drill, Island, Opal.
+                - First, briefly summarize the rules and objective of the puzzle (in no more than 50 words)
+                - Next, come up with the four categories to which the words belong. For each category, briefly explain why each of the words you selected belong to that category
+
+                Format your final answers as:
+                "Category1: [word1, word2, word3, word4]"
+                "Category2: [word5, word6, word7, word8]"
+                "Category3: [word9, word10, word11, word12]"
+                "Category4: [word13, word14, word15, word16]"
+
+                Some rules:
+                - Give your final answers in the format described above without any additional text
+                - Use the message history to make sure you don't repeat any of your previous guesses
+                - Please stick to the format replace the word with your answer
+
+                Here are the starting 16 words:"""+Game
+
+            },
+            {
+                "role": "assistant",
+                "content": "Here are the possible answers"
+            }
+        ],
+        temperature=1,
+        max_tokens=1024,
+        top_p=1,
+        stream=True,
+        stop=None,
+    )
+    # print("...........")
+    # print(completion)
+    # print("...........")
+    return_val = ""
+
+    for chunk in completion:
+        if chunk.choices[0].delta.content:
+            if chunk.choices[0].delta.content != '\n':
+                return_val+= chunk.choices[0].delta.content
+        else:
+            return_val+= ""
+
+    # return_val = extract_valid_text(return_val)
+    print(return_val)
+    
+    return return_val
+
+
+# replicating_p1("APPROVAL, BLESSING, CONSENT, SUPPORT, BAGEL, LIFESAVER, TIRE, WREATH, HOOK, SHANK, SLICE, WHIFF, LOAF, SLIP, SNEAK, WADE")
+
