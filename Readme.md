@@ -19,3 +19,4 @@ Directory structure:
 - wikidata.py - main code for (ii)
 
 Note: I changed directory structure after most of the code is done, so path to excel, csv, txt, json files need to be changed accordingly.
+additional data: https://drive.google.com/drive/folders/11mWaQl7lpYUt_phm-IhjQx3trf5MYqm-?usp=drive_link
