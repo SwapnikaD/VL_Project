@@ -2,7 +2,7 @@ This is the repository accompanying the project titled: "Triplet prompting: Comb
 
 Directory structure:
 
-- data- has all the jsons, intermediate and final jsons used for the project.
+- data - has all the jsons, intermediate and final jsons used for the project.
 - data comparison - has processed jsons for validation and related python scripts.
 - Replicated results - has json files, images, graph script cherry picked from paper [4]. The zip was huge and can be found in google drive link in the paper.
 - txt files - has input text files and some old data dumps.
